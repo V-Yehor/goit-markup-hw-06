@@ -421,8 +421,8 @@ button {
 }
 
 .modal-check:checked + .check-text .check-icon {
-  border: none;
   background-color: #404bbf;
+  border: none;
   border: 1px solid #404bbf;
   fill: #f4f4fd;
 }
